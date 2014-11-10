@@ -1,0 +1,1 @@
+*/10 * * * * /var/www/virtualenv/nycssc-scheds/bin/python /var/www/virtualenv/nycssc-scheds/nycssc-scheds/script.py
