@@ -1,4 +1,4 @@
-Scrapes NYC Social's EZFacility schedule webpage and creates calendar feed. Would probably work with other EZFacility leagues with minor modifications.
+Scrapes NYC Social's EZFacility schedule webpage and creates calendar feed. Would probably work with other EZFacility leagues with minor modifications. Would also have to consider the timezone logic. May make it configurable at some point.
 
 Requires some system packages:
 ```
